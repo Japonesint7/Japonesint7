@@ -66,7 +66,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=INTERPOL&fontSize=70&fontColor=fffffffff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ff0000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9D%99%85%F0%9D%99%96%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9A%F0%9D%99%A8%20%F0%9D%99%99%F0%9D%99%96%20%F0%9D%99%81%F0%9D%99%9A%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A1&fontSize=70&fontColor=f3322&fontAlign=50&fontAlignY=45&rotate=0&stroke=-&desc=%F0%9D%99%84%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%A17&descSize=30&descAlign=80&descAlignY=85&textBg=false&color=ff0000"  />
 </div>
 
 ###
